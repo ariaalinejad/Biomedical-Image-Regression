@@ -2,7 +2,7 @@
 Project to develop ML algorithms for image regression on biomedical images, with a special focus on the effects of data aumentation on the limited dataset. 
 
 Dataset:
-33 images of mice with tumors. The images have been processed to display heatmaps representing the bioluminescence signal intensity resulting from an injection of mammary carcinoma cells fraction enriched with extracellular vesicles. 
+33 images of mice with tumors. The images have been processed to display heatmaps representing the bioluminescence signal intensity resulting from an injection of mammary carcinoma cells fraction enriched with extracellular vesicles. 
 The provided presentation showcases examples of the beforementioned images. 
 
 Goal:
